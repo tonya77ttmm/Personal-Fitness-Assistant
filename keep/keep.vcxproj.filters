@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="clock_in.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="infortable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="my_register.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="my_video.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="schem1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="selfinformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="videowidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="clock_in.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="dialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="infortable.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="my_register.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="my_video.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="schem1.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="selfinformation.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="videowidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="clock_in.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="dialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="infortable.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="my_register.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="my_video.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="schem1.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="selfinformation.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="picture\1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\2.jpeg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\2.mp3">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\20200630_214046.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\3.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\4.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\5.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\6.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\7.jpeg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\8.jpeg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\9.jpeg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="picture\9.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="mypic.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
